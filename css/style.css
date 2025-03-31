@@ -100,7 +100,6 @@ ul.resource-list strong {
     margin-top: 16px;
 }
 
-/* General Card Style */
 .card {
     padding: 16px;
     background-color: #f6f6f6;
@@ -478,10 +477,9 @@ section.welcome-cab h2 {
     display: block;
 }
 
-/* 404 page */
 main.welcome h1 {
     font-size: 6rem;
-    color: #FFCB05;
+    color: #00274C;
     margin-bottom: 0;
   }
   
